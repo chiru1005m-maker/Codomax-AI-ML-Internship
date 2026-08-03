@@ -1,1 +1,1 @@
-print("Development environnment is ready.")
+print("Development environnment setup is ready.")
